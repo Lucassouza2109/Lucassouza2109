@@ -1,10 +1,11 @@
 ## Bem-vindo(a) ao meu perfil. Me chamo Lucas Souza! 
 
-<div>
-   <a href="https://github.com/lucassouza2109">
+ <div>
+   <a href="https://github.com/Lucassouza2109">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucassouza2109&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassouza2109&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
