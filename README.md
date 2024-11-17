@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil. Me chamo Lucas Souza! 
+## Welcome to my profile. My name is Lucas Souza! 
 
 <div>
    <a href="https://github.com/Lucassouza2109">
@@ -18,7 +18,7 @@
 
 <br>
 
-### Não deixe de acompanhar a minha evolução em Programação!
+### Don't forget to follow my evolution in Programming!
 
 <div> 
   <a href="https://youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
